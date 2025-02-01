@@ -71,7 +71,3 @@
 **Programming Languages:** Python, C#, C++, SQL, Java  
 **NLP and ML Frameworks:** NLTK, spaCy, Hugging Face Transformers, TensorFlow, PyTorch, Scikit-learn  
 **Statistical Tools:** R, MATLAB, Pandas, NumPy  
-
----
-
-### 📌 [GitHub Repository](https://github.com/edithandrews) 
