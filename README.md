@@ -1,5 +1,3 @@
-# Edith Susanna Andrews
-
 **Bangalore, India**  
 📧 [edithsusannaandrews@gmail.com](mailto:edithsusannaandrews@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/edith-andrews/) | [GitHub](https://github.com/edithandrews)  
